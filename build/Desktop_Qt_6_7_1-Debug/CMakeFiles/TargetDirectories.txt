@@ -1,0 +1,5 @@
+/home/ghamr/Desktop/learn_qt/ball/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/BallMover.dir
+/home/ghamr/Desktop/learn_qt/ball/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/edit_cache.dir
+/home/ghamr/Desktop/learn_qt/ball/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/rebuild_cache.dir
+/home/ghamr/Desktop/learn_qt/ball/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/BallMover_autogen_timestamp_deps.dir
+/home/ghamr/Desktop/learn_qt/ball/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/BallMover_autogen.dir
